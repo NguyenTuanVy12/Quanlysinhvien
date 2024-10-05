@@ -1,0 +1,10 @@
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe.config
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.pdb
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.AssemblyReference.cache
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.Form1.resources
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.Properties.Resources.resources
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.exe
+C:\Users\tuanv\source\repos\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.pdb
